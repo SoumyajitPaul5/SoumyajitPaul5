@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**SoumyajitPaul5/SoumyajitPaul5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Soumyajit Paul, a software developer and graduate of Niagara College with a diploma in Computer Programming. I specialize in web development and software engineering.
 
-Here are some ideas to get you started:
+## Current Projects
+- **MAUI App:** Managing patient assignments and details.
+- **MVC Music Collection:** User authentication and music management.
+- **Patient Management System:** Handling patients, doctors, and appointments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** C#, JavaScript, HTML, CSS, SQL
+- **Frameworks:** .NET, ASP.NET MVC, MAUI
+- **Databases:** SQL Server, MySQL
+
+## Contact
+- **Location:** Ontario, Canada
+- **Email:** ullash818@gmail.com
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
