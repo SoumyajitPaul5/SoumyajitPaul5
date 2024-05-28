@@ -8,9 +8,9 @@ I'm Soumyajit Paul, a software developer and graduate of Niagara College with a 
 - **Patient Management System:** Handling patients, doctors, and appointments.
 
 ## Skills
-- **Languages:** C#, JavaScript, HTML, CSS, SQL
+- **Languages:** C#, JavaScript, Python, HTML, CSS, SQL
 - **Frameworks:** .NET, ASP.NET MVC, MAUI
-- **Databases:** SQL Server, MySQL
+- **Databases:** SQL Server, MySQL, MongoDB
 
 ## Contact
 - **Location:** Ontario, Canada
