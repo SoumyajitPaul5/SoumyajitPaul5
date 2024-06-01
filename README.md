@@ -15,6 +15,6 @@ I'm Soumyajit Paul, a software developer and graduate of Niagara College with a 
 ## Contact
 - **Location:** Ontario, Canada
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/soumyajit-paul-1795a1309?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFHj8mx8ZQsqKTmtJknGBfA%3D%3D)
-- **Email:** ullash818@gmail.com
+- **Email:** soumyajitpaul011@gmail.com
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
